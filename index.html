@@ -14,7 +14,7 @@
 
         @import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&display=swap');
     </style>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css\style.css">
     <title>Mary's Bakery</title>
 </head>
 
@@ -22,14 +22,14 @@
 
     <!--Nav bar-->
 
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark ">
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
         <a class="navbar-brand" href="#">Mary's Bakery</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
+            <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
                     <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
                 </li>
@@ -58,45 +58,48 @@
             </div>
         </div>
     </div>
-    <br>
-    <div class="container-wrapper container-wrapper--red">
-        <div class="container features-container content-container">
-            <section class="about">
+    
+    <div class="container-wrapper">
+        <div class="container about-container">
+            <section class="About">
                 <div class="row">
-                    <div class="col-12 page-header">
-                        <h2 class="text-uppercase">About Us</h2>
-                        <hr class="block-divider block-divider--short block-divider--white">
+                    <div class="col12">
+                        <p>About us</p>
                     </div>
                 </div>
+            </section>
         </div>
-        </section>
-        <section class="OurCakes">
-            <div class="row">
-                <div class="col-12 page-header">
-                    <h2 class="text-uppercase">Our Cakes</h2>
-                    <hr class="block-divider block-divider--short block-divider--white">
-                </div>
-            </div>
     </div>
-    </section>
-    <section class="contact">
-        <div class="row">
-            <div class="col-12 page-header">
-                <h2 class="text-uppercase">Contact us</h2>
-                <hr class="block-divider block-divider--short block-divider--white">
-            </div>
-        </div>
-        </div>
-    </section>
-    <footer class="footer">
-        <div class="row">
-            <div class="col-12 page-header">
-                <h2 class="text-uppercase">Footer</h2>
-                <hr class="block-divider block-divider--short block-divider--white">
-            </div>
-        </div>
 
-    </footer>
+    <div class="container-wrapper">
+        <div class="container cakes-container">
+            <section class="cakes">
+                <div class="row">
+                    <div class="col12">
+                        <p>Our Cakes</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <div class="container-wrapper">
+        <div class="container contact-container">
+            <section class="contact">
+                <div class="row">
+                    <div class="col12">
+                        <p>Contact</p>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+    <footer>Footer</footer>
+    
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 
 </html>
