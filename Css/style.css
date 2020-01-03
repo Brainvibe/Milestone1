@@ -29,7 +29,7 @@
 
 
 
-/******Main container*****/
+/******Main container - Main section *****/
 
 .main-container{
     height:100vh;
@@ -46,7 +46,7 @@
     
 }
 
-
+/***background overlay main section***/
 .opaque-overlay {
     position: absolute;
     top: 0;
@@ -61,19 +61,77 @@
     text-align: center;
     font-size: 20px;
     color:white;
-    font-weight: bold;
+ 
 }
 
+.title{
+    font-size:35px;
+}
 
 /******About us******/
+
+
+.aboutTitle{
+
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
 
 .about-container{
    
     justify-content: center;
     display: flex;
+           
+    
 }
 
+/** Title About section **/
 
+.about-section-container{
+    margin-top: 30px;
+    background-color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    display: flex;
+   
+
+}
+
+/**left column about section **/
+
+.about-left{
+   
+      
+    text-align: center;
+  
+}
+
+/**right column about section **/
+
+
+.about-right{
+    
+    margin-top:100px;
+    font-size: 20px;
+    text-align: center;
+    color:black;
+
+}
+
+/**About photo section properties**/
+
+.about-photo{
+   
+   width:850px;
+   height:550px;
+   border-radius: 30px;
+   
+  
+
+}
 /*****Our cakes*****/
 
 .cakes{
@@ -97,3 +155,24 @@
     
 }
 
+
+/***Media Queries***/
+
+@media only screen and (max-width: 1024px) {
+    /* For mobile phones: */
+    .about-photo {
+      width: 100%;
+      height:auto;
+    }
+    
+    /**for tablets**/
+    
+    .about-right{
+    
+        margin-top:10px;
+        font-size: 15px;
+       
+    }
+}
+
+/****add tablet media query over 1024***/

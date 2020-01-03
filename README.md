@@ -1,4 +1,4 @@
-# Your Project's Name
+# Mary's Bakery
 
 One or two paragraphs providing an overview of your project.
 
