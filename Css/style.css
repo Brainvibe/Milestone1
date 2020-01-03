@@ -1,16 +1,14 @@
-
-
 /*******Navbar*******/
 
 .navbar {
     margin-bottom: 0;
- 
+
     width: 100%;
     background-color: rgba(0, 0, 0, 0.25);
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 18px;
     padding-right: 0;
-    
+
 }
 
 .navbar .navbar-toggler {
@@ -22,7 +20,7 @@
     font-weight: none;
     font-family: 'Pacifico', sans-serif;
     font-size: 25px;
-    
+
 }
 
 
@@ -31,8 +29,8 @@
 
 /******Main container - Main section *****/
 
-.main-container{
-    height:100vh;
+.main-container {
+    height: 100vh;
     background: url('../assets/images/main-photo.jpeg')no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -42,8 +40,8 @@
     align-items: center;
     justify-content: center;
     position: relative;
-    color:white;
-    
+    color: white;
+
 }
 
 /***background overlay main section***/
@@ -56,88 +54,89 @@
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-.textMain{
+.textMain {
     font-family: 'PT Sans Narrow', sans-serif;
     text-align: center;
     font-size: 20px;
-    color:white;
- 
+    color: white;
+
 }
 
-.title{
-    font-size:35px;
+.title {
+    font-size: 35px;
 }
 
 /******About us******/
 
 
-.aboutTitle{
+.aboutTitle {
 
     padding-top: 20px;
     font-weight: bold;
     font-size: 25px;
     font-family: 'PT Sans Narrow', sans-serif;
-    
+
 }
 
 
-.about-container{
-   
+.about-container {
+
     justify-content: center;
     display: flex;
-           
-    
+
+
 }
 
 /** Title About section **/
 
-.about-section-container{
+.about-section-container {
     margin-top: 30px;
     background-color: white;
     font-family: 'PT Sans Narrow', sans-serif;
     display: flex;
-   
+
 
 }
 
 /**left column about section **/
 
-.about-left{
-   
-      
+.about-left {
+
+
     text-align: center;
-  
+
 }
 
 /**right column about section **/
 
 
-.about-right{
-    
-    margin-top:100px;
+.about-right {
+
+    margin-top: 100px;
     font-size: 20px;
     text-align: center;
-    color:black;
+    color: black;
 
 }
 
 /**About photo section properties**/
 
-.about-photo{
-   
-   width:850px;
-   height:550px;
-   border-radius: 30px;
-   
-  
+.about-photo {
+
+    width: 850px;
+    height: 550px;
+    border-radius: 30px;
+
+
 
 }
+
 /*****Our cakes*****/
 
 
 
 
-.cakeTitle{
+.cakeTitle {
 
     padding-top: 60px;
     font-weight: bold;
@@ -145,58 +144,60 @@
     font-family: 'PT Sans Narrow', sans-serif;
     text-align: center;
 
-    
+
 }
 
 
-.cake-container{
-   
+.cake-container {
+
     justify-content: center;
     display: flex;
-           
-    
+
+
 }
 
 
-.cake{
+.cake {
     margin-top: 40px;
     margin-bottom: 40px;
     text-align: center;
-    
+
 }
 
 /***Contact****/
 
-.contact{
+.contact {
 
     justify-content: center;
     display: flex;
 }
+
 /*********Footer**************/
-.footer{
+.footer {
     text-align: center;
     bottom: 0;
-    top:0;
-    
+    top: 0;
+
 }
 
 
 /***Media Queries***/
 
 @media only screen and (max-width: 1024px) {
+
     /* For mobile phones: */
     .about-photo {
-      width: 100%;
-      height:auto;
+        width: 100%;
+        height: auto;
     }
-    
+
     /**for tablets**/
-    
-    .about-right{
-    
-        margin-top:10px;
+
+    .about-right {
+
+        margin-top: 10px;
         font-size: 15px;
-       
+
     }
 }
 
