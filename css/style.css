@@ -11,6 +11,7 @@
 
 .navbar .navbar-toggler {
     border: 10;
+    border-color: white;
 }
 
 .navbar-brand {
@@ -46,6 +47,8 @@
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+/****text properties for main section ****/
+
 .textMain {
     font-family: 'PT Sans Narrow', sans-serif;
     text-align: center;
@@ -71,8 +74,6 @@
     display: flex;
     background-color: black;
 }
-
-/** :#edd2a7;**/
 
 .about-section-container {
     margin-top: 100px;
@@ -106,7 +107,7 @@
     margin-bottom: 40px;
 }
 
-/*****Our cakes*****/
+/*****Our cakes section *****/
 
 
 .cakeTitle {
@@ -122,24 +123,23 @@
 .cakes-container {
     justify-content: center;
     margin-top: 20px;
+    
     text-align: center;
     background-color: #1b100d;
+    padding-bottom: 20px; 
     
 }
+
 .cake-section-container {
     background-color: #1b100d;
     color: white;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 18px;
+   
     
 }
 
-
-
-
-
 /***All Cakes photo properties ***/
-
  
 .img-fluid {
     width: 450px;
@@ -166,7 +166,7 @@
     color: white;
 }
     
-}
+
 
 .contactTitle {
     padding-top: 20px;
@@ -178,23 +178,48 @@
     color: white;
 }
 
-.form{
-    border:none;
+/****form properties ***/
+
+.form-control{
+    width:450px;
+    resize:none;
 }
+
+
 .form-wrapper{
     background-color:transparent;
-    border-color: black;
-    
+
 }
-/**1b100d**/
+
 /*********Footer**************/
 
 .footer {
     text-align: center;
     width: 100%;
     background: black;
+    
 }
 
+.social-icons{
+
+    justify-content: center;
+    background-color: #1b100d;
+    color:white;
+    font-size: 30px;
+}
+
+
+.contain-icons{
+    justify-content: center;
+   
+}
+
+.icon{
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+}
 /***Media Queries***/
 
 @media only screen and (max-width: 1024px) {
@@ -217,6 +242,10 @@
         padding-left: 10px;
         padding-right: 10px;
         
+    }
+
+    .form-control{
+        width:200px;
     }
 }
 
