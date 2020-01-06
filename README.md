@@ -1,4 +1,4 @@
-# Mary's Bakery
+# Mary's Sweets
 
 One or two paragraphs providing an overview of your project.
 

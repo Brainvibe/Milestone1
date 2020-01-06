@@ -117,8 +117,8 @@
                 </div>
             </div>
 
-            
-             <div class="container-fluid cake-section-container">
+
+            <div class="container-fluid cake-section-container">
                 <div class="row">
                     <div class="col-sm-4 cake">
                         <img class="img-responsive img-fluid" src="assets/images/anniversary_cake.jpg"
@@ -161,34 +161,60 @@
 
     <div class="container-fluid contact-container">
         <section class="contact-section">
-            <div class="row">
-                <div class="col-sm-12 contactTitle">
-                    <p>Contact</p>
+                 <div class="row">
+                    <div class="col-sm-12 form-wrapper">
+                        <div class="row">
+                            <form class="text-center border border-dark p-5" action="#!">
+
+                                <p class="h4">Contact us</p>
+
+                                <!-- Name -->
+                                <input type="text" id="name" class="form-control mb-4" placeholder="Name">
+
+                                <!-- Email -->
+                                <input type="email" id="email" class="form-control mb-4" placeholder="E-mail">
+
+                                <!-- Subject -->
+                                <label>Subject</label>
+                                <select class="browser-default custom-select mb-4">
+                                    <option value="" disabled>Choose option</option>
+                                    <option value="1" selected>Information</option>
+                                    <option value="2">Order Cakes</option>
+
+                                </select>
+
+                                <!-- Message -->
+                                <div class="form-group">
+                                    <textarea class="form-control rounded-0" id="FormControlText" rows="4"
+                                        placeholder="Message"></textarea>
+                                </div>
+
+
+
+                                <!-- Send button -->
+                                <button class="btn btn-success btn-block" type="submit">Send</button>
+
+                            </form>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="container-fluid contact">
-                <div class="row">
-                    <div class="col-sm-12 contact">
+        </section>
+    </div>
+   
 
-                        <p>Form contact</p>
 
-                    </div>
+
+    <div class="container-fluid footer-container">
+        <section class="footer-section">
+            <footer class="page-footer  mt-auto py-3">
+                <div class="container text-center">
+
+                    <small>Social media links here</small>
                 </div>
-
-        </section>
-
-
-
-        <div class="container-fluid footer-container">
-            <section class="footer-section">
-                <footer class="page-footer  mt-auto py-3">
-                    <div class="container text-center">
-
-                        <small>Social media links here</small>
-                    </div>
-                </footer>
-        </div>
-        </section>
+            </footer>
+    </div>
+    </section>
 
 
 </body>
