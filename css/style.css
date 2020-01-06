@@ -140,19 +140,7 @@
 
 /***All Cakes photo properties ***/
 
-.carousel-item{
-    height: 90vh;
- }
-
- .img-fluid {
-    width: 100vw;
-    height: 100vh;
-    
-    
-}
-
-
-/*
+ 
 .img-fluid {
     width: 450px;
     height: 350px;
@@ -160,7 +148,8 @@
     margin-top: 40px;
     margin-bottom: 40px;
 }
-*/
+
+
 /***Contact****/
 
 .contact {
