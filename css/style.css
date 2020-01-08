@@ -1,3 +1,9 @@
+
+/***smooth scroll***/
+
+html {
+    scroll-behavior: smooth;
+  }
 /*******Navbar*******/
 
 .navbar {
@@ -178,6 +184,11 @@
     color: white;
 }
 
+.btn-success{
+    background-color: #1b100d;
+    border:none;
+}
+
 /****form properties ***/
 
 .form-control{
@@ -196,7 +207,7 @@
 .footer {
     text-align: center;
     width: 100%;
-    background: black;
+    background: #1b100d;
     
 }
 
@@ -220,6 +231,14 @@
     margin-right: 10px;
     margin-bottom: 15px;
 }
+.footer-container{
+    background:#1b100d;
+    text-align: center;
+    color:white;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+
 /***Media Queries***/
 
 @media only screen and (max-width: 1024px) {
@@ -235,7 +254,7 @@
     }
     .img-fluid {
         width: 350px;
-        height: 250px;
+        height: 220px;
         border-radius: 30px;
         margin-top: 20px;
         margin-bottom: 20px;
