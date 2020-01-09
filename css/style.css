@@ -20,12 +20,22 @@ html {
     border-color: white;
 }
 
+
 .navbar-brand {
     font-weight: none;
     font-family: 'Pacifico', sans-serif;
     font-size: 25px;
 }
 
+
+.navbar .navbar-collapse {
+    text-align: right;
+    margin-right: 10px;
+}
+
+.navbar-right {
+    float: right;
+}
 /******Main container - Main section *****/
 
 .main-container {
@@ -217,7 +227,7 @@ html {
 .contain-icons {
     justify-content: center;
 }
-
+/** Font awesome icon properties **/
 .icon {
     margin-top: 15px;
     margin-left: 10px;
@@ -225,6 +235,7 @@ html {
     margin-bottom: 15px;
 }
 
+/** Hoover icons **/
 i {
     color: #3f2720;
 }
