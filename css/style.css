@@ -185,8 +185,7 @@ html {
 .btn-success:hover {
     color: #fff;
     background-color: #351f19;
-    border-color: #285e8e;
-    /*set the color you want here*/
+  
 }
 
 /****form properties ***/
@@ -261,5 +260,3 @@ i:hover {
         width: auto;
     }
 }
-
-/****add tablet media query over 1024***/
