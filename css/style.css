@@ -1,9 +1,9 @@
-
 /***smooth scroll***/
 
 html {
     scroll-behavior: smooth;
-  }
+}
+
 /*******Navbar*******/
 
 .navbar {
@@ -16,7 +16,7 @@ html {
 }
 
 .navbar .navbar-toggler {
-    border: 10;
+    border: none;
     border-color: white;
 }
 
@@ -115,7 +115,6 @@ html {
 
 /*****Our cakes section *****/
 
-
 .cakeTitle {
     padding-top: 20px;
     font-weight: bold;
@@ -124,16 +123,14 @@ html {
     text-align: center;
     background-color: black;
     color: white;
-    
 }
+
 .cakes-container {
     justify-content: center;
     margin-top: 20px;
-    
     text-align: center;
     background-color: #1b100d;
-    padding-bottom: 20px; 
-    
+    padding-bottom: 20px;
 }
 
 .cake-section-container {
@@ -141,22 +138,19 @@ html {
     color: white;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 18px;
-   
-    
 }
 
 /***All Cakes photo properties ***/
- 
+
 .img-fluid {
     width: 450px;
-    height: 350px;
+    height: 300px;
     border-radius: 30px;
     margin-top: 40px;
     margin-bottom: 40px;
 }
 
-
-/***Contact****/
+/***Contact***/
 
 .contact-container {
     height: 100vh;
@@ -170,9 +164,8 @@ html {
     justify-content: center;
     position: relative;
     color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
-    
-
 
 .contactTitle {
     padding-top: 20px;
@@ -184,59 +177,63 @@ html {
     color: white;
 }
 
-.btn-success{
+.btn-success {
     background-color: #1b100d;
-    border:none;
+    border: none;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #351f19;
+    border-color: #285e8e;
+    /*set the color you want here*/
 }
 
 /****form properties ***/
 
-.form-control{
-    width:450px;
-    resize:none;
+.form-control {
+    width: 450px;
+    resize: none;
 }
 
-
-.form-wrapper{
-    background-color:transparent;
-
+.form-wrapper {
+    background-color: transparent;
 }
 
 /*********Footer**************/
 
-.footer {
+.footer-container {
+    background: black;
     text-align: center;
-    width: 100%;
-    background: #1b100d;
-    
+    color: white;
+    font-family: 'PT Sans Narrow', sans-serif;
+    padding-bottom: 5px;
 }
-
-.social-icons{
-
-    justify-content: center;
-    background-color: #1b100d;
-    color:white;
+.social-icons {
+    
+    color: white;
     font-size: 30px;
 }
 
-
-.contain-icons{
+.contain-icons {
     justify-content: center;
-   
 }
 
-.icon{
+.icon {
     margin-top: 15px;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 15px;
 }
-.footer-container{
-    background:#1b100d;
-    text-align: center;
-    color:white;
-    font-family: 'PT Sans Narrow', sans-serif;
+
+i {
+    color: #3f2720;
 }
+
+i:hover {
+    color: #1b100d;
+}
+
 
 
 /***Media Queries***/
@@ -247,7 +244,6 @@ html {
         width: 100% !important;
         height: auto !important;
     }
-    /**for tablets**/
     .about-right {
         margin-top: 10px;
         font-size: 15px;
@@ -260,11 +256,9 @@ html {
         margin-bottom: 20px;
         padding-left: 10px;
         padding-right: 10px;
-        
     }
-
-    .form-control{
-        width:200px;
+    .form-control {
+        width: auto;
     }
 }
 
