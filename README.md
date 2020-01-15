@@ -1,9 +1,10 @@
 # Mary's Sweets
 
-One or two paragraphs providing an overview of your project.
+This project aims to be a online presence of a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
-Essentially, this part is your sales pitch.
-UX
+##UX
+
+
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -29,10 +30,18 @@ Features Left to Implement
 
 Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
++ **Visual Studio Code** - IDE used for this project  - [Visual Studio Code Website](https://code.visualstudio.com/)
++ **Live server** - A VS Code extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. -[Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
++ **HTML 5** - Used to create the main structure of the website.
++ **CSS** - Used to style and layout the website.
++ **Bootstrap** - Framework used[Bootstrap](https://getbootstrap.com/)
++ **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
++ **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
++ **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
++ **Git** - Version control used. [Git](https://git-scm.com/)
++ **GitHub** - Hosted repository. [Github](https://github.com/)
++ **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
 
-    JQuery
-        The project uses JQuery to simplify DOM manipulation.
 
 Testing
 
@@ -65,13 +74,14 @@ In particular, you should provide all details of the differences between the dep
 
 In addition, if it is not obvious, you should also describe how to run your code locally.
 Credits
+
 Content
 
     The text for section Y was copied from the Wikipedia article Z
 
-Media
+##Media
 
-    The photos used in this site were obtained from ...
+    The photos used in this site were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
 
 Acknowledgements
 
