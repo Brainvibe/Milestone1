@@ -34,7 +34,7 @@ html {
     margin-right: 15px;
 }
 
-.navbar-right {
+.navbar-center {
     float: center;
 }
 /******Main container - Main section *****/
@@ -189,7 +189,7 @@ html {
 }
 
 .btn-success {
-    background-color: #1b100d;
+    background-color: #492c24;
     border: none;
 }
 
@@ -199,6 +199,12 @@ html {
   
 }
 
+
+.btn-success:active{
+    background: #492c24!important;
+    outline: none;
+    box-shadow: none !important;
+  }
 /****form properties ***/
 
 .form-control {
@@ -215,7 +221,7 @@ html {
 .footer-container {
     background: black;
     text-align: center;
-    color: white;
+    color: gray;
     font-family: 'PT Sans Narrow', sans-serif;
     padding-bottom: 5px;
 }
@@ -242,7 +248,7 @@ i {
 }
 
 i:hover {
-    color: #1b100d;
+    color:white;
 }
 
 
