@@ -19,10 +19,7 @@ User stories:
 Desktop
 </p>
 
-<p align="center">
-  <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
-</p>
-
+![Desktop](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png)
 
 <p align="center">
 Mobile
