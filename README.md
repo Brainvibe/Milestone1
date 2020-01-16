@@ -13,31 +13,20 @@ User stories:
 
 
 ##**Wireframes**
-#
-<div style="text-align:center">
+
 
 **Desktop**
-</div>
 #
-<img align="center" src="wireframes/Desktop.png" width="400" height="1000" alt="Desktop Wireframe">
-
-
+![Desktop](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png)
 # 
-<div style="text-align:center">   
 **Mobile**
-</div>
 #
-<img align="center" src="wireframes/Mobile.png" width="600" height="500" alt="Mobile Wireframe">
-
+![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
 #
-<div style="text-align:center">
 **Tablet**
-</div>
 #
-
-<img align="center" src="wireframes/Tablet.png" width="600" height="500" alt="Tablet Wireframe">
-
-
+![Tablet](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Tablet.png)
+#
 
 **Features**
 
