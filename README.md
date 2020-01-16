@@ -1,10 +1,10 @@
 # Mary's Sweets
 
- <img width="1200" height="450" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
-#
+<img width="1200" height="350" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
+
 This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
-##UX
+## UX
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -14,28 +14,26 @@ User stories:
     As a user type, I want to perform an action, so that I can achieve a goal.
 
 
-##**Wireframes**
-
-**Desktop**
-
+## Wireframes
 <p align="center">
-
+Desktop
+</p>
+#
+<p align="center">
   <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
 
 <p align="center">
-
-**Mobile**
-
+Mobile
 </p>
+#
 
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
 <p align="center">
-
-**Tablet**
-
+Tablet
 </p>
+#
 
 ![Tablet](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Tablet.png)
 
@@ -113,7 +111,7 @@ Content
 
     The text for section Y was copied from the Wikipedia article Z
 
-##Media
+## Media
 
 The photos used in this project were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
 
