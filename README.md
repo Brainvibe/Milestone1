@@ -18,7 +18,7 @@ User stories:
 **Desktop**
 
 <p align="center">
-  <img width="460" height="900" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
+  <img width="460" height="1000" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
 
