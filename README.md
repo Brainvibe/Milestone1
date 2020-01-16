@@ -18,7 +18,7 @@ User stories:
 <p align="center">
 Desktop
 </p>
-#
+
 <p align="center">
   <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
@@ -27,13 +27,14 @@ Desktop
 <p align="center">
 Mobile
 </p>
-#
+
 
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
+
 <p align="center">
 Tablet
 </p>
-#
+
 
 ![Tablet](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Tablet.png)
 
@@ -43,27 +44,34 @@ Tablet
 
     Home - Allows users to undestand the mission of the business.
     
-    About us - Users can learn here a more detailed information about the business, who they are, their mission, and what they do. 
+    About us - Users can learn here a more detailed information about the business, who they are, their mission, 
+    and what they do. 
 
     Our Sweets - It showcases all Bakery products, so the user knows what's available to them. 
 
-    Contact us - Allows the user to contact the business to order cakes or to ask any other information they want to. 
+    Contact us - Allows the user to contact the business to order cakes or to ask any other 
+    information they want to. 
 
 
 
 
-**Features Left to Implement**
+**Features to add**
 
-    Online store - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer. 
-
-    Location -
+    Online store - Instead of using the contact form to order the cakes, a full e-commerce 
+    solution would be ideal. For the business and the customer. 
+    
+    Different payment methods - In order to reach to a wider range of customers. 
+    
+    Social feed - Real time updates, from business social accounts 
+    
+    
 
 
 **Technologies Used**
 
 + **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
 + **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-+ **Markdown Preview Enhanced** VsCode extension with live reload feature to help write and format README. [Markdown Preview Enhanced](https://getbootstrap.com/)
+(https://getbootstrap.com/)
 + **HTML 5** - Used to create the main structure of the website.
 + **CSS** - Used to style and layout the website.
 + **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
@@ -113,7 +121,7 @@ Content
 
 ## Media
 
-The photos used in this project were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
+The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). 
 
 **Acknowledgements**
 
