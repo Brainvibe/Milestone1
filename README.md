@@ -1,5 +1,6 @@
 # Mary's Sweets
-![Page Preview](assets/page_preview.png)
+
+ <img width="1200" height="450" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
 #
 This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
@@ -15,15 +16,10 @@ User stories:
 
 ##**Wireframes**
 
-
-
-
-
-
+**Desktop**
 
 <p align="center">
 
-**Desktop**
   <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
