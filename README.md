@@ -1,6 +1,6 @@
 # Mary's Sweets
 
-<img width="1200" height="350" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
+<img width="1891" height="770" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
 
 This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
