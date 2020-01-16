@@ -12,24 +12,34 @@ User stories:
     As a user type, I want to perform an action, so that I can achieve a goal.
 
 
-##**Wireframes**
+**Wireframes**
 
+<p align="center">
 
 **Desktop**
+
+</p>
 
 <p align="center">
   <img width="460" height="1000" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
 
+<p align="center">
+
 **Mobile**
-#
+
+</p>
+
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
-#
+<p align="center">
+
 **Tablet**
-#
+
+</p>
+
 ![Tablet](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Tablet.png)
-#
+
 
 **Features**
 
