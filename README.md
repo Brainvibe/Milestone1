@@ -16,9 +16,12 @@ User stories:
 
 
 **Desktop**
-#
-![Desktop](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png)
-# 
+
+<p align="center">
+  <img width="460" height="900" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
+</p>
+
+
 **Mobile**
 #
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
