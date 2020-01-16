@@ -1,49 +1,77 @@
 # Mary's Sweets
 
-This project aims to be a online presence of a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
+This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
 ##UX
-
-
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+User stories:
 
     As a user type, I want to perform an action, so that I can achieve a goal.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
-Existing Features
+##**Wireframes**
+#
+<div style="text-align:center">
 
-    Feature 1 - allows users X to achieve Y, by having them fill out Z
-    ...
+**Desktop**
+#
+<img src="wireframes/Desktop.png" width="400" height="1000" alt="Desktop Wireframe"  style="text-align:center"/>
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-Features Left to Implement
+#    
+**Mobile**
+#
+<img src="wireframes/Mobile.png" width="600" height="500" alt="Desktop Wireframe"  style="text-align:center"/>
 
-    Another feature idea
+#
+**Tablet**
 
-Technologies Used
+#
+<img src="wireframes/Tablet.png" width="600" height="500" alt="Desktop Wireframe"  style="text-align:center"/>
 
-+ **Visual Studio Code** - IDE used for this project  - [Visual Studio Code Website](https://code.visualstudio.com/)
-+ **Live server** - A VS Code extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. -[Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+</div>
+
+**Features**
+
+
+    Home - Allows users to undestand the mission of the business.
+    
+    About us - Users can learn here a more detailed information about the business, who they are, their mission, and what they do. 
+
+    Our Sweets - It showcases all Bakery products, so the user knows what's available to them. 
+
+    Contact us - Allows the user to contact the business to order cakes or to ask any other information they want to. 
+
+
+
+
+**Features Left to Implement**
+
+    Online store - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer. 
+
+    Location -
+
+
+**Technologies Used**
+
++ **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
++ **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
++ **Markdown Preview Enhanced** VsCode extension with live reload feature to help write and format README. [Markdown Preview Enhanced](https://getbootstrap.com/)
 + **HTML 5** - Used to create the main structure of the website.
 + **CSS** - Used to style and layout the website.
-+ **Bootstrap** - Framework used[Bootstrap](https://getbootstrap.com/)
++ **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
 + **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
 + **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
 + **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
 + **Git** - Version control used. [Git](https://git-scm.com/)
 + **GitHub** - Hosted repository. [Github](https://github.com/)
 + **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
++ **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
 
-
-Testing
+**Testing**
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -81,8 +109,8 @@ Content
 
 ##Media
 
-    The photos used in this site were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
+The photos used in this project were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
 
-Acknowledgements
+**Acknowledgements**
 
     I received inspiration for this project from X
