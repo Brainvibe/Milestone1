@@ -2,7 +2,7 @@
 
 <img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
 
-This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
+This project aims to be a online presence to a new bakery business. Client wanted a minimalistic but effective website, providing key information about their business.
 
 ## UX
 
@@ -79,6 +79,7 @@ Tablet
 + **GitHub** - Hosted repository. [Github](https://github.com/)
 + **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
 + **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
++ **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
 
 **Testing**
 
@@ -122,4 +123,6 @@ The photos used in this project are all free to use, obtained from [Pexels](http
 
 **Acknowledgements**
 
-    I received inspiration for this project from X
+    Auto-hide collapse menu code from [here](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click).
+    Smooth Scrolling from [W3schools] (https://www.w3schools.com/howto/howto_css_smooth_scroll.asp).
+    Opaque overlay from Whiskey Drop Code institute mini project.

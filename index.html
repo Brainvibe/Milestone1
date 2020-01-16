@@ -40,15 +40,15 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav navbar-right">
                 <li class="nav-item active">
-                    <a class="nav-link" href="#">Home </a>
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                     <a class="nav-link" href="#about">About us</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                     <a class="nav-link" href="#sweets">Our Sweets</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item" data-toggle="collapse" data-target=".navbar-collapse.show">
                     <a class="nav-link" href="#contact">Contact</a>
                 </li>
 
@@ -179,15 +179,15 @@
                     <div class="row">
 
                         <!-- Contact form -->
-                        <form class="text-center p-5" action="#!">
+                        <form class="text-center p-5" action="#">
 
                             <p class="h4">Contact us</p>
 
                             <!-- Name -->
-                            <input type="text" id="name" class="form-control mb-4" placeholder="Name">
+                            <input type="text" id="name" class="form-control mb-4" placeholder="Name" required>
 
                             <!-- Email -->
-                            <input type="email" id="email" class="form-control mb-4" placeholder="E-mail">
+                            <input type="email" id="email" class="form-control mb-4" placeholder="E-mail" required>
 
                             <!-- Subject -->
                             <label>Subject</label>
@@ -201,7 +201,7 @@
                             <!-- Message -->
                             <div class="form-group">
                                 <textarea class="form-control rounded-0" id="FormControlText" rows="5"
-                                    placeholder="Message"></textarea>
+                                    placeholder="Message" required></textarea>
                             </div>
 
 
@@ -219,7 +219,7 @@
 
 
 
-<!-- Footer -->
+    <!-- Footer -->
     <div class=" container-fluid footer-container">
         <section class="footer-section">
             <div class="row">

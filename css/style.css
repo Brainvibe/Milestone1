@@ -30,12 +30,12 @@ html {
 
 
 .navbar .navbar-collapse {
-    text-align: right;
+    text-align: center;
     margin-right: 15px;
 }
 
 .navbar-right {
-    float: right;
+    float: center;
 }
 /******Main container - Main section *****/
 
@@ -272,3 +272,10 @@ i:hover {
         width: auto;
     }
 }
+
+@media (max-width: 768px) {
+    nav.navbar {
+     
+      font-size:20px;
+    }
+  }
