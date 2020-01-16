@@ -17,22 +17,27 @@ User stories:
 <div style="text-align:center">
 
 **Desktop**
-#
-<img src="wireframes/Desktop.png" width="400" height="1000" alt="Desktop Wireframe">
-
-
-#    
-**Mobile**
-#
-<img src="wireframes/Mobile.png" width="600" height="500" alt="Desktop Wireframe">
-
-#
-**Tablet**
-
-#
-<img src="wireframes/Tablet.png" width="600" height="500" alt="Desktop Wireframe">
-
 </div>
+#
+<img align="center" src="wireframes/Desktop.png" width="400" height="1000" alt="Desktop Wireframe">
+
+
+# 
+<div style="text-align:center">   
+**Mobile**
+</div>
+#
+<img align="center" src="wireframes/Mobile.png" width="600" height="500" alt="Mobile Wireframe">
+
+#
+<div style="text-align:center">
+**Tablet**
+</div>
+#
+
+<img align="center" src="wireframes/Tablet.png" width="600" height="500" alt="Tablet Wireframe">
+
+
 
 **Features**
 
