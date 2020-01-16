@@ -1,5 +1,6 @@
 # Mary's Sweets
-
+![Page Preview](assets/page_preview.png)
+#
 This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
 ##UX
@@ -12,16 +13,18 @@ User stories:
     As a user type, I want to perform an action, so that I can achieve a goal.
 
 
-**Wireframes**
+##**Wireframes**
+
+
+
+
+
+
 
 <p align="center">
 
 **Desktop**
-
-</p>
-
-<p align="center">
-  <img width="460" height="1000" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
+  <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
 
