@@ -1,9 +1,10 @@
 # Mary's Sweets
-![Page Preview](assets/page_preview.png)
-#
+
+<img width="1200" height="350" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
+
 This project aims to be a online presence to a new bakery online. Client wanted a minimalistic but effective website, providing key information about their business.
 
-##UX
+## UX
 
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -13,33 +14,27 @@ User stories:
     As a user type, I want to perform an action, so that I can achieve a goal.
 
 
-##**Wireframes**
-
-
-
-
-
-
+## Wireframes
+<p align="center">
+Desktop
+</p>
 
 <p align="center">
-
-**Desktop**
   <img width="460" height="1200" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png">
 </p>
 
 
 <p align="center">
-
-**Mobile**
-
+Mobile
 </p>
+
 
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
+
 <p align="center">
-
-**Tablet**
-
+Tablet
 </p>
+
 
 ![Tablet](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Tablet.png)
 
@@ -49,27 +44,34 @@ User stories:
 
     Home - Allows users to undestand the mission of the business.
     
-    About us - Users can learn here a more detailed information about the business, who they are, their mission, and what they do. 
+    About us - Users can learn here a more detailed information about the business, who they are, their mission, 
+    and what they do. 
 
     Our Sweets - It showcases all Bakery products, so the user knows what's available to them. 
 
-    Contact us - Allows the user to contact the business to order cakes or to ask any other information they want to. 
+    Contact us - Allows the user to contact the business to order cakes or to ask any other 
+    information they want to. 
 
 
 
 
-**Features Left to Implement**
+**Features to add**
 
-    Online store - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer. 
-
-    Location -
+    Online store - Instead of using the contact form to order the cakes, a full e-commerce 
+    solution would be ideal. For the business and the customer. 
+    
+    Different payment methods - In order to reach to a wider range of customers. 
+    
+    Social feed - Real time updates, from business social accounts 
+    
+    
 
 
 **Technologies Used**
 
 + **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
 + **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-+ **Markdown Preview Enhanced** VsCode extension with live reload feature to help write and format README. [Markdown Preview Enhanced](https://getbootstrap.com/)
+(https://getbootstrap.com/)
 + **HTML 5** - Used to create the main structure of the website.
 + **CSS** - Used to style and layout the website.
 + **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
@@ -117,9 +119,9 @@ Content
 
     The text for section Y was copied from the Wikipedia article Z
 
-##Media
+## Media
 
-The photos used in this project were all obtained from [Pexels](https://www.pexels.com/). All free to use - all license information can be found [Here](https://www.pexels.com/photo-license/). 
+The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). 
 
 **Acknowledgements**
 
