@@ -1,7 +1,7 @@
 # Mary's Sweets
 
 <img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
-This project aims to be an online presence to a new bakery business.
+This project aims to be an online presence to a new online home-baking business.
 
 You can see the live version [here](https://brainvibe.github.io/Milestone1/)
  
@@ -28,7 +28,7 @@ Having this in mind, I've created a one-page scroll with three sections, in orde
 - Contact us
     - A simple form to contact Mary's Sweets, if the user whishes to have more information or order any products 
 
-- As a user type, I want to perform an action, so that I can achieve a goal.
+
 
 ## Wireframes
 <p align="center">
@@ -52,8 +52,6 @@ Tablet
 
 ## Features
 
-**Home** - Allows users to understand the mission of the business.
-
 
 **About us** - Users can learn here more detailed information about the business, who they are, their mission, 
     and what they do. 
@@ -62,7 +60,7 @@ Tablet
 
 
 **Contact us** - Allows the user to contact the business to order cakes or to ask any other information they want to. 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+
  
 
 
@@ -71,7 +69,7 @@ In this section, you should go over the different parts of your project, and des
     
 - **Different payment methods** - In order to reach to a wider range of customers. 
     
-- **Social feed** - Real-time updates, from business social accounts 
+- **Social feed** - Real-time updates, from business social accounts and engagement with the potential customers.
 
 ## Technologies Used
 + **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
@@ -129,21 +127,21 @@ In this section, you should go over the different parts of your project, and des
 
 + **Slack Feedback**
 
-Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
+        Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
     
     
 + **Non-automated testing**
 
-Contact Form:
+        Contact Form:
         
-        Went to the "Contact Us" section
-        Tried to submit the empty form and verify that an error message about the required fields appears
-        Tried to submit the form with an invalid email address and verify that a relevant error message appears
-        Tried to submit the form with all inputs valid and verified that it was accepted.
+            Went to the "Contact Us" section
+            Tried to submit the empty form and verify that an error message about the required fields appears
+            Tried to submit the form with an invalid email address and verify that a relevant error message appears
+            Tried to submit the form with all inputs valid and verified that it was accepted.
 
 Links: 
         
-        Checked all links especially the footer social icons, to make sure they were opening on a new tab correctly.
+     Checked all links especially the footer social icons, to make sure they were opening on a new tab correctly.
         
 **Used dev tools extensively** to be able to test the website on all devices with portrait and landscape resolutions. It was a challenge to set it correctly, especially when there's so many using different stock images, with different sizes aspect ratios and many different devices/resolutions. The use of media queries was the main key here.  
 
