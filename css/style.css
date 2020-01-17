@@ -22,7 +22,7 @@ html {
 }
 
 .navbar-brand {
-    font-weight: none;
+    
     font-family: 'Pacifico', sans-serif;
     font-size: 25px;
 }
@@ -33,7 +33,7 @@ html {
 }
 
 .navbar-center {
-    float: center;
+    text-align: center;
 }
 
 /******Main container - Main section *****/
