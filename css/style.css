@@ -198,7 +198,7 @@ html {
 }
 
 .btn-success:active {
-    background: #492c24!important;
+    background: #492c24 !important;
     outline: none;
     box-shadow: none !important;
 }
@@ -219,7 +219,7 @@ html {
 .footer-container {
     background: black;
     text-align: center;
-    color: gray;
+    color: white;
     font-family: 'PT Sans Narrow', sans-serif;
     padding-bottom: 5px;
 }
@@ -245,7 +245,7 @@ html {
 /** Hoover icons **/
 
 i {
-    color: #3f2720;
+    color: #7e4b3c;
 }
 
 i:hover {
@@ -261,10 +261,12 @@ i:hover {
         width: 100% !important;
         height: auto !important;
     }
+
     .about-right {
         margin-top: 10px;
         font-size: 15px;
     }
+
     .img-fluid {
         width: 350px;
         height: 220px;
@@ -274,23 +276,31 @@ i:hover {
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .form-control {
         width: 250px;
     }
+
     nav.navbar {
         font-size: 20px;
+        font-weight: bold;
+        background: rgba(3, 19, 16, 0.76);
+        color: white;
     }
+
+
 }
 
 /*for mobile landscape*/
 
 @media (min-width: 481px) and (max-width: 767px) {
-  
+
 
     .about-right {
         margin-top: 10px;
         font-size: 12px;
     }
+
     .img-fluid {
         width: 250px;
         height: 120px;
@@ -300,57 +310,69 @@ i:hover {
         padding-left: 10px;
         padding-right: 10px;
     }
-    .contact-container{
+
+    .contact-container {
         padding-top: 60px;
         height: 200vh;
     }
+
     .form-control {
-        
+
         width: 350px;
     }
- 
-    
-  }
+
+    nav.navbar {
+        font-size: 20px;
+        font-weight: bold;
+        background: rgba(3, 19, 16, 0.76);
+        color: white;
+    }
+
+}
 
 
 /* For tablets */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    
+
     .about-right {
         margin-top: 10px;
         font-size: 15px;
     }
+
     .img-fluid {
         width: 350px;
-        height: 180px;
+        height: 170px;
         border-radius: 30px;
         margin-top: 20px;
         margin-bottom: 20px;
         padding-left: 10px;
         padding-right: 10px;
     }
+
     .form-control {
         width: 400px;
     }
+
     nav.navbar {
         font-size: 25px;
     }
+
     .social-icons {
         font-size: 40px;
     }
-    .contact-container{
+
+    .contact-container {
         padding-top: 60px;
         height: 100vh;
     }
 }
 
-/**Mobile phones XL resolution like Iphone X and Pixel 2 XL */ 
+/**Mobile phones XL resolution like Iphone X and Pixel 2 XL */
 @media (min-width: 812px) and (max-width: 830px) {
-   
-    .contact-container{
-      
+
+    .contact-container {
+
         height: 200vh;
     }
 }
-
