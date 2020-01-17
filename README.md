@@ -80,6 +80,7 @@ Tablet
 + **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
 + **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
 + **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
++ **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
 
 **Testing**
 

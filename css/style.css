@@ -21,13 +21,11 @@ html {
     margin-right: 5px;
 }
 
-
 .navbar-brand {
     font-weight: none;
     font-family: 'Pacifico', sans-serif;
     font-size: 25px;
 }
-
 
 .navbar .navbar-collapse {
     text-align: center;
@@ -37,6 +35,7 @@ html {
 .navbar-center {
     float: center;
 }
+
 /******Main container - Main section *****/
 
 .main-container {
@@ -196,15 +195,14 @@ html {
 .btn-success:hover {
     color: #fff;
     background-color: #351f19;
-  
 }
 
-
-.btn-success:active{
+.btn-success:active {
     background: #492c24!important;
     outline: none;
     box-shadow: none !important;
-  }
+}
+
 /****form properties ***/
 
 .form-control {
@@ -225,8 +223,8 @@ html {
     font-family: 'PT Sans Narrow', sans-serif;
     padding-bottom: 5px;
 }
+
 .social-icons {
-    
     color: white;
     font-size: 30px;
 }
@@ -234,7 +232,9 @@ html {
 .contain-icons {
     justify-content: center;
 }
+
 /** Font awesome icon properties **/
+
 .icon {
     margin-top: 15px;
     margin-left: 10px;
@@ -243,20 +243,20 @@ html {
 }
 
 /** Hoover icons **/
+
 i {
     color: #3f2720;
 }
 
 i:hover {
-    color:white;
+    color: white;
 }
 
+/*************Media Queries******************/
 
+/* For mobile phones: */
 
-/***Media Queries***/
-
-@media only screen and (max-width: 1024px) {
-    /* For mobile phones: */
+@media only screen and (max-width: 768px) {
     .about-photo {
         width: 100% !important;
         height: auto !important;
@@ -275,13 +275,82 @@ i:hover {
         padding-right: 10px;
     }
     .form-control {
-        width: auto;
+        width: 250px;
+    }
+    nav.navbar {
+        font-size: 20px;
     }
 }
 
-@media (max-width: 768px) {
-    nav.navbar {
-     
-      font-size:20px;
+/*for mobile landscape*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+
+    .about-right {
+        margin-top: 10px;
+        font-size: 12px;
     }
+    .img-fluid {
+        width: 250px;
+        height: 120px;
+        border-radius: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .contact-container{
+        padding-top: 60px;
+        height: 200vh;
+    }
+    .form-control {
+        
+        width: 350px;
+    }
+ 
+    
   }
+
+
+/* For tablets */
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+    .about-right {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .img-fluid {
+        width: 350px;
+        height: 180px;
+        border-radius: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .form-control {
+        width: 400px;
+    }
+    nav.navbar {
+        font-size: 25px;
+    }
+    .social-icons {
+        font-size: 40px;
+    }
+    .contact-container{
+        padding-top: 60px;
+        height: 100vh;
+    }
+}
+
+/**Mobile phones XL resolution like Iphone X and Pixel 2 XL */ 
+@media (min-width: 812px) and (max-width: 830px) {
+   
+    .contact-container{
+      
+        height: 200vh;
+    }
+}
+
