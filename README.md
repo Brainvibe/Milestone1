@@ -130,8 +130,23 @@ In this section, you should go over the different parts of your project, and des
 
 + **Slack Feedback**
 
--Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
- 
+Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
+    
+    
++ **Non-automated testing**
+
+
+Contact form:
+
+        Went to the "Contact Us" page
+        Tried to submit the empty form and verify that an error message about the required fields appears
+        Tried to submit the form with an invalid email address and verify that a relevant error message appears
+        Tried to submit the form with all inputs valid and verified that it was accepted.
+
+Links: 
+        
+        Checked all links especially the footer social icons, to make sure they were opening on a new tab correctly.
+
 ## Deployment
 
 The project was deployed through [Github Pages](https://brainvibe.github.io/Milestone1/)
