@@ -132,8 +132,7 @@ In this section, you should go over the different parts of your project, and des
 Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
     
     
-+ **Non-automated testing**
-
++ **Non-automated testing**
 
 Contact Form:
         
@@ -160,10 +159,6 @@ Auto-hide collapse menu code from [here](https://stackoverflow.com/question
 Smooth Scrolling from [W3schools] (https://www.w3schools.com/howto/howto_css_smooth_scroll.asp).
 
 Opaque overlay from the Whiskey Drop Code institute mini-project.
-
-
-### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
 The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). .
