@@ -76,71 +76,82 @@ In this section, you should go over the different parts of your project, and des
 ## Technologies Used
 
 + **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
+
 + **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 (https://getbootstrap.com/)
-+ **HTML 5** - Used to create the main structure of the website.
+
++ **HTML** - Used to create the main structure of the website.
+
 + **CSS** - Used to style and layout the website.
+
 + **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
+
 + **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
+
 + **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
+
 + **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
+
 + **Git** - Version control used. [Git](https://git-scm.com/)
+
 + **GitHub** - Hosted repository. [Github](https://github.com/)
+
 + **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
+
 + **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
+
 + **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
+
 + **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
 
 
 
 ## Testing
++ **W3C Validation Services**
+    - Markup Validation Service - It detected some minor errors that were easily fixed.
+    - Link Checker - No errors, all links working properly.
+    - CSS Validation service - Only warnings and errors regarding Bootstrap and unkown vendor extensions.
+    
++ **Tested Devices**
 
-+ **W3C Validation services**
-    - Markup Validation Service - It detected some minor errors that were easily fixed. 
-    - Link Checker - No errors. All links working properly.
-    - CSS Validation service - Only warnings and errors regarding Bootstrap and unknown vendor extension. 
+    - One Plus 7 pro
+    - Fire HD 10
+    - Ipad
+    - Iphone 11
+    - Macbook Pro 13"
+    - Windows Desktop
 
-+ **Tested Devices** 
++ **Browsers**
 
-    - One plus 7 pro
-    - Fire HD 10
-    - Ipad
-    - Iphone 11
-    - Macbook pro 13"
-    - Windows desktop
+    - Edge
+    - Chrome
+    - Firefox
+    - Safari
 
-+ **Browsers** 
++ **Slack Feedback**
 
-    - Edge 
-    - Chrome
-    - Firefox
-    - Safari
-
-+ **Slack Feedback**
-
- - Asked feedback in 'Peer-code-review' where it has been identified an issue with the form size on tablet and lack of validation
- in the contact form. 
+-Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form. 
  
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
+The project was deployed through [Github Pages](https://brainvibe.github.io/Milestone1/)
 
 
 ## Credits
+
+Auto-hide collapse menu code from [here](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click).
+
+Smooth Scrolling from [W3schools] (https://www.w3schools.com/howto/howto_css_smooth_scroll.asp).
+
+Opaque overlay from the Whiskey Drop Code institute mini-project.
+
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- The photos used in this site were obtained from ...
+The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). .
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+I want to thank my mentor Victor Miclovich for the great help with reviews and feedback in order to finish my project.
