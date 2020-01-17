@@ -3,7 +3,7 @@
 <img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
 This project aims to be an online presence to a new bakery business.
 
-- You can see the live version [here](https://brainvibe.github.io/Milestone1/)
+You can see the live version [here](https://brainvibe.github.io/Milestone1/)
  
 ## UX
  
@@ -74,39 +74,38 @@ In this section, you should go over the different parts of your project, and des
 - **Social feed** - Real-time updates, from business social accounts 
 
 ## Technologies Used
++ **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
 
-+ **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
++ **Live Server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live server by Riwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-+ **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
-(https://getbootstrap.com/)
++ **HTML** - Used to create the main structure of the website.
 
-+ **HTML** - Used to create the main structure of the website.
++ **CSS** - Used to style and layout the website.
 
-+ **CSS** - Used to style and layout the website.
++ **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
 
-+ **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
++ **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
 
-+ **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
++ **FontAwesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
 
-+ **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
++ **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
 
-+ **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
++ **Git** - Version control used. [Git](https://git-scm.com/)
 
-+ **Git** - Version control used. [Git](https://git-scm.com/)
++ **GitHub** - Hosted repository. [Github](https://github.com/)
 
-+ **GitHub** - Hosted repository. [Github](https://github.com/)
++ **Github Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
 
-+ **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
++ **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
 
-+ **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
++ **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
 
-+ **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
-
-+ **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
++ **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
 
 
 
 ## Testing
+
 + **W3C Validation Services**
     - Markup Validation Service - It detected some minor errors that were easily fixed.
     - Link Checker - No errors, all links working properly.
@@ -136,9 +135,9 @@ Asked feedback in 'Peer-Code-Review' where it has been identified an issue with 
 + **Non-automated testing**
 
 
-Contact form:
-
-        Went to the "Contact Us" page
+Contact Form:
+        
+        Went to the "Contact Us" section
         Tried to submit the empty form and verify that an error message about the required fields appears
         Tried to submit the form with an invalid email address and verify that a relevant error message appears
         Tried to submit the form with all inputs valid and verified that it was accepted.
@@ -146,6 +145,8 @@ Contact form:
 Links: 
         
         Checked all links especially the footer social icons, to make sure they were opening on a new tab correctly.
+        
+**Used dev tools extensively** to be able to test the website on all devices with portrait and landscape resolutions. It was a challenge to set it correctly, especially when there's so many using different stock images, with different sizes aspect ratios and many different devices/resolutions. The use of media queries was the main key here.  
 
 ## Deployment
 
