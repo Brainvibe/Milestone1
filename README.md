@@ -1,64 +1,64 @@
-# Mary's Sweets
+# Mary's Sweets
 
-<img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
+<img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
 
-This project aims to be a online presence to a new bakery business. Client wanted a minimalistic but effective website, providing key information about their services.
+This project aims to be an online presence to a new bakery business. The client wanted a minimalistic but effective website, providing key information about their services.
 
-You can see the live version [here](https://brainvibe.github.io/Milestone1/)
+You can see the live version [here](https://brainvibe.github.io/Milestone1/)
 
-## UX
-
-
-This website is a calling card to a new bakery business. The aim of this website is to provide key information about Mary's Sweets.
-The client wanted a simple page where they could showcase their main products, get customers to know a bit more about Mary's sweet, a way for customers to contact them directly online and for orders or for any other questions they might have. 
-
-Having this in mind I've created a one page scroll with three sections, so it's easy to navigate and provide information to the user: 
-
->About us
->Our Sweets
->Contact us
-
->About us 
-
-A brief introduction and get the user know:
-- Who's Mary's sweets
-- What they do
-- What they offer 
-
->Our Sweets
-
-It shows the user, a full range of cakes and sweets, that are available and provided by Mary's sweets. 
-
-> Contact us
-
-A simple form to contact Mary's Sweets, if the user wishes to have more information or order any cakes. 
+## UX
 
 
+This website is a calling card to a new bakery business. The aim of this website is to provide key information about Mary's Sweets.
+The client wanted a simple page where they could showcase their main products, get customers to know a bit more about Mary's sweet, a way for customers to contact them directly online and for orders or for any other questions they might have. 
+
+Having this in mind I've created a one-page scroll with three sections, so it's easy to navigate and provide information to the user: 
+
+>About us
+>Our Sweets
+>Contact us
+
+>About us 
+
+A brief introduction and get the user know:
+- Who're Mary's sweets
+- What they do
+- What they offer 
+
+>Our Sweets
+
+It shows the user, a full range of cakes and sweets, that are available and provided by Mary's sweets. 
+
+> Contact us
+
+A simple form to contact Mary's Sweets if the user wishes to have more information or order any cakes. 
 
 
-User stories:
-
-    As a user, I want to navigate easily through the site, in order to find the information I need. 
-    As a user, I want to know more about the company, so I can learn more about them or who I'm buying from. 
-    As a user, I want to know the cakes available, in order to make a decision. 
-    As a user, I want to know how to make a order, if I decide to make a purchase. 
 
 
-## Wireframes
-<p align="center">
+User stories:
+
+    As a user, I want to navigate easily through the site, in order to find the information I need. 
+    As a user, I want to know more about the company, so I can learn more about them or whom I'm buying from. 
+    As a user, I want to know the cakes available, in order to make a decision. 
+    As a user, I want to know how to make an order, if I decide to make a purchase. 
+
+
+## Wireframes
+<p align="center">
 Desktop
 </p>
 
 ![Desktop](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Desktop.png)
 
-<p align="center">
+<p align="center">
 Mobile
 </p>
 
 
 ![Mobile](https://github.com/Brainvibe/Milestone1/blob/master/wireframes/Mobile.png)
 
-<p align="center">
+<p align="center">
 Tablet
 </p>
 
@@ -69,121 +69,119 @@ Tablet
 **Features**
 
 
-    Home - Allows users to undestand the mission of the business.
-    
-    About us - Users can learn here a more detailed information about the business, who they are, their mission, 
-    and what they do. 
+    Home - Allows users to understand the mission of the business.
+    
+    About us - Users can learn here more detailed information about the business, who they are, their mission, 
+    and what they do. 
 
-    Our Sweets - It showcases all Bakery products, so the user knows what's available to them. 
+    Our Sweets - It showcases all Bakery products, so the user knows what's available to them. 
 
-    Contact us - Allows the user to contact the business to order cakes or to ask any other 
-    information they want to. 
-
+    Contact us - Allows the user to contact the business to order cakes or to ask any other information they want to. 
 
 
 
-**Features left to implement**
 
-Online store - Instead of using the contact form to order the cakes, a full e-commerce 
-    solution would be ideal. For the business and the customer. 
-    
-Different payment methods - In order to reach to a wider range of customers. 
-    
-Social feed - Real time updates, from business social accounts 
-    
-    
+**Features left to implement**
+
+Online store - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer. 
+    
+Different payment methods - In order to reach to a wider range of customers. 
+    
+Social feed - Real-time updates, from business social accounts 
+    
+    
 
 
-**Technologies Used**
+**Technologies Used**
 
-+ **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
-+ **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
++ **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
++ **Live server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 (https://getbootstrap.com/)
-+ **HTML 5** - Used to create the main structure of the website.
-+ **CSS** - Used to style and layout the website.
-+ **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
-+ **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
-+ **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
-+ **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
-+ **Git** - Version control used. [Git](https://git-scm.com/)
-+ **GitHub** - Hosted repository. [Github](https://github.com/)
-+ **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
-+ **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
-+ **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
-+ **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
++ **HTML 5** - Used to create the main structure of the website.
++ **CSS** - Used to style and layout the website.
++ **Bootstrap** - Framework used [Bootstrap](https://getbootstrap.com/)
++ **jQuery** - In order for Collapse to work with the Navbar [jQuery](https://jquery.com/)
++ **Fontawesome** - All footer icons are from Font Awesome. [Font Awesome](https://fontawesome.com/)
++ **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
++ **Git** - Version control used. [Git](https://git-scm.com/)
++ **GitHub** - Hosted repository. [Github](https://github.com/)
++ **GitHub Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
++ **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
++ **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
++ **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
 
 **Testing**
 
-+ **W3C Validation services**
-    - Markup Validation Service - It detected some minor errors that were easily fixed. 
-    - Link Checker - No errors. All links working properly.
-    - CSS Validation service - Only warnings and errors regarding Bootstrap and unknown vendor extension. 
++ **W3C Validation services**
+    - Markup Validation Service - It detected some minor errors that were easily fixed. 
+    - Link Checker - No errors. All links working properly.
+    - CSS Validation service - Only warnings and errors regarding Bootstrap and unknown vendor extension. 
 
-+ **Tested Devices** 
++ **Tested Devices** 
 
-    - One plus 7 pro
-    - Fire HD 10
-    - Ipad
-    - Iphone 11
-    - Macbook pro 13"
-    - Windows desktop
+    - One plus 7 pro
+    - Fire HD 10
+    - Ipad
+    - Iphone 11
+    - Macbook pro 13"
+    - Windows desktop
 
-+ **Browsers** 
++ **Browsers** 
 
-    - Edge 
-    - Chrome
-    - Firefox
-    - Safari
+    - Edge 
+    - Chrome
+    - Firefox
+    - Safari
 
-+ **Slack Feedback**
++ **Slack Feedback**
 
-   - Asked feedback in 'Peer-code-review' where it was idenfied an issue with the form size on tablets and lack of validation in the contact form. 
-
-
-
-- I ran my website through [GTmetrix](https://gtmetrix.com) and it presented me with speed issues I had not been given on Google Developer Tools. It outlined that some of the images had been resized within the IDE so their native pixel ratio was still far too large, and I could save space by resizing these on top of the compression I had already applied. 
-   
-
-+ **Non automated testing**
+   - Asked feedback in 'Peer-code-review' where it has identified an issue with the form size on tablets and lack of validation in the contact form. 
 
 
-Contact form:
-        Go to the "Contact Us" page
-        Try to submit the empty form and verify that an error message about the required fields appears
-        Try to submit the form with an invalid email address and verify that a relevant error message appears
-        Try to submit the form with all inputs valid and verify that a success message appears.
 
-Links: 
+- I ran my website through [GTmetrix](https://gtmetrix.com) and it presented me with speed issues I had not been given on Google Developer Tools. It outlined that some of the images had been resized within the IDE so their native pixel ratio was still far too large, and I could save space by resizing these on top of the compression I had already applied. 
+   
 
-Checked all links specially the footer social icons, to see if every link was being opened on a new tab correctly. 
++ **Non-automated testing**
 
 
-   
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Contact form:
+        Go to the "Contact Us" page
+        Try to submit the empty form and verify that an error message about the required fields appears
+        Try to submit the form with an invalid email address and verify that a relevant error message appears
+        Try to submit the form with all inputs valid and verify that a success message appears.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+Links: 
+
+Checked all links especially the footer social icons, to see if every link was being opened on a new tab correctly. 
+
+
+   
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 
 Deployment
 
-The project was deployed through [Github Pages](https://brainvibe.github.io/Milestone1/)
+The project was deployed through [Github Pages](https://brainvibe.github.io/Milestone1/)
 
 
 Credits
 
-Auto-hide collapse menu code from [here](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click).
-Smooth Scrolling from [W3schools] (https://www.w3schools.com/howto/howto_css_smooth_scroll.asp).
-Opaque overlay from Whiskey Drop Code institute mini project.
+Auto-hide collapse menu code from [here](https://stackoverflow.com/questions/42401606/how-to-hide-collapsible-bootstrap-4-navbar-on-click).
+Smooth Scrolling from [W3schools] (https://www.w3schools.com/howto/howto_css_smooth_scroll.asp).
+Opaque overlay from the Whiskey Drop Code institute mini-project.
 
 Content
 
-    The text for About sectionwas copied from 
+    The text for About section was copied from 
 
-## Media
+## Media
 
-The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). 
+The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). 
 
 **Acknowledgements**
 
- I want to thank my mentor Victor Miclovich for the great help with reviews and feedback in order to finish my project. A big thanks to all students from Slack in Code Institute.
- Always sharing useful knowledge and useful feedback.  
+ I want to thank my mentor Victor Miclovich for the great help with reviews and feedback in order to finish my project. A big thanks to all students from Slack in Code Institute.
+ Always sharing useful knowledge and useful feedback.
