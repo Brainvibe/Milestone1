@@ -95,24 +95,32 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
++ **W3C Validation services**
+    - Markup Validation Service - It detected some minor errors that were easily fixed. 
+    - Link Checker - No errors. All links working properly.
+    - CSS Validation service - Only warnings and errors regarding Bootstrap and unknown vendor extension. 
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
++ **Tested Devices** 
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+    - One plus 7 pro
+    - Fire HD 10
+    - Ipad
+    - Iphone 11
+    - Macbook pro 13"
+    - Windows desktop
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
++ **Browsers** 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+    - Edge 
+    - Chrome
+    - Firefox
+    - Safari
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
++ **Slack Feedback**
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+ - Asked feedback in 'Peer-code-review' where it has been identified an issue with the form size on tablet and lack of validation
+ in the contact form. 
+ 
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
