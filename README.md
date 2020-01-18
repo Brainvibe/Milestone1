@@ -1,6 +1,6 @@
 # Mary's Sweets
 
-<img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/assets/images/page_preview.png">
+<img width="1000" height="400" src="https://github.com/Brainvibe/Milestone1/blob/master/wireframes/page_preview.png">
 This project aims to be an online presence to a new online home-baking business.
 
 You can see the live version [here](https://brainvibe.github.io/Milestone1/)
@@ -17,10 +17,10 @@ Having this in mind, I've created a one-page scroll with three sections, in orde
     Contact us
 
 - About us
-      - A brief introduction and get the user know:
-      - Who is Mary's sweets
-      - What they do
-      - What they offer
+  - A brief introduction and get the user know:
+    - Who is Mary's sweets
+    - What they do
+    - What they offer
 
 - Our Sweets
   - It shows the user, a full range of products that are available and provided by Mary's Sweets.
@@ -121,7 +121,7 @@ Tablet
 
     Asked feedback in 'Peer-Code-Review' where it has been identified an issue with the form size on tablets and lack of validation in the contact form.
 
-- **Non-automated testing**
+**Non-automated testing:**
 
 Contact Form:
 
@@ -150,7 +150,7 @@ Opaque overlay from the Whiskey Drop Code institute mini-project.
 
 ### Media
 
-The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/). .
+The photos used in this project are all free to use, obtained from [Pexels](https://www.pexels.com/). License information can be found [Here](https://www.pexels.com/photo-license/).
 
 ### Acknowledgements
 
