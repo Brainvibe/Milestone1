@@ -1,10 +1,10 @@
-/***smooth scroll***/
+/**** smooth scroll ****/
 
 html {
     scroll-behavior: smooth;
 }
 
-/*******Navbar*******/
+/**** Navbar ****/
 
 .navbar {
     margin-bottom: 0;
@@ -22,7 +22,6 @@ html {
 }
 
 .navbar-brand {
-    
     font-family: 'Pacifico', sans-serif;
     font-size: 25px;
 }
@@ -36,7 +35,7 @@ html {
     text-align: center;
 }
 
-/******Main container - Main section *****/
+/**** Main container - Main section ****/
 
 .main-container {
     height: 100vh;
@@ -52,7 +51,7 @@ html {
     color: white;
 }
 
-/***background overlay main section***/
+/**** background overlay main section ****/
 
 .opaque-overlay {
     position: absolute;
@@ -63,7 +62,7 @@ html {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
-/****text properties for main section ****/
+/**** text properties for main section ****/
 
 .textMain {
     font-family: 'PT Sans Narrow', sans-serif;
@@ -76,9 +75,9 @@ html {
     font-size: 35px;
 }
 
-/******About us******/
+/**** About us Section ****/
 
-/*** Title ***/
+/**** Title ****/
 
 .aboutTitle {
     padding-top: 20px;
@@ -98,22 +97,22 @@ html {
     font-family: 'PT Sans Narrow', sans-serif;
 }
 
-/**left column about section **/
+/**** left column about section ****/
 
 .about-left {
     text-align: center;
 }
 
-/**right column about section **/
+/**** right column about section ****/
 
 .about-right {
-    margin-top: 100px;
+    margin-top: 40px;
     font-size: 25px;
     text-align: center;
     color: #806231;
 }
 
-/**About photo section properties**/
+/**** About photo section properties ****/
 
 .about-photo {
     width: 100% !important;
@@ -125,24 +124,21 @@ html {
 
 a:link {
     color: #806231;
-  }
-  
-  /* visited link */
-  a:visited {
-    color: #806231;
-  }
-  
-  /* mouse over link */
-  a:hover {
-    color: #806231;
-  }
-  
-  /* selected link */
-  a:active {
-    color:#806231;
-  }
+}
 
-/*****Our cakes section *****/
+a:visited {
+    color: #806231;
+}
+
+a:hover {
+    color: #806231;
+}
+
+a:active {
+    color: #806231;
+}
+
+/**** Our cakes section ****/
 
 .cakeTitle {
     padding-top: 20px;
@@ -179,7 +175,7 @@ a:link {
     margin-bottom: 40px;
 }
 
-/***Contact***/
+/**** Contact section ****/
 
 .contact-container {
     height: 100vh;
@@ -197,12 +193,8 @@ a:link {
 }
 
 .contactTitle {
-       
-    
     font-size: 25px;
-  
     color: white;
-
 }
 
 .btn-success {
@@ -221,7 +213,7 @@ a:link {
     box-shadow: none !important;
 }
 
-/****form properties ***/
+/**** form properties ****/
 
 .form-control {
     width: 450px;
@@ -232,7 +224,7 @@ a:link {
     background-color: transparent;
 }
 
-/*********Footer**************/
+/**** Footer ****/
 
 .footer-container {
     background: black;
@@ -251,7 +243,7 @@ a:link {
     justify-content: center;
 }
 
-/** Font awesome icon properties **/
+/**** Font awesome icon properties ****/
 
 .icon {
     margin-top: 15px;
@@ -260,7 +252,7 @@ a:link {
     margin-bottom: 15px;
 }
 
-/** Hoover icons **/
+/**** Hoover icons ****/
 
 i {
     color: #7e4b3c;
@@ -270,127 +262,137 @@ i:hover {
     color: white;
 }
 
-/*************Media Queries******************/
+/**** Media Queries ****/
 
-/* For mobile phones: */
+/**** For mobile phones: ****/
 
 @media only screen and (max-width: 768px) {
     .about-photo {
         width: 100% !important;
         height: auto !important;
     }
-
     .about-right {
         margin-top: 10px;
         font-size: 15px;
     }
-
     .img-fluid {
         width: 350px;
-        height: 220px;
+        height: 200px;
         border-radius: 30px;
         margin-top: 20px;
         margin-bottom: 20px;
         padding-left: 10px;
         padding-right: 10px;
     }
-
     .form-control {
         width: 250px;
     }
-
     nav.navbar {
         font-size: 20px;
         font-weight: bold;
         background: rgba(3, 19, 16, 0.76);
         color: white;
     }
-
-
 }
 
-/*for mobile landscape*/
+/**** Mobile landscape ****/
 
-@media (min-width: 481px) and (max-width: 767px) {
-
-
+@media (min-width: 360px) and (max-width: 767px) and (orientation: landscape) {
     .about-right {
         margin-top: 10px;
         font-size: 12px;
     }
-
     .img-fluid {
         width: 250px;
-        height: 120px;
+        height: 140px;
         border-radius: 30px;
         margin-top: 20px;
         margin-bottom: 20px;
         padding-left: 10px;
         padding-right: 10px;
     }
-
     .contact-container {
         padding-top: 60px;
         height: 200vh;
     }
-
     .form-control {
-
         width: 350px;
     }
-
     nav.navbar {
         font-size: 20px;
         font-weight: bold;
         background: rgba(3, 19, 16, 0.76);
         color: white;
     }
-
 }
 
-
-/* For tablets */
+/**** For tablets ****/
 
 @media (min-width: 768px) and (max-width: 1024px) {
-
     .about-right {
         margin-top: 10px;
         font-size: 15px;
     }
-
     .img-fluid {
         width: 350px;
-        height: 170px;
+        height: 150px;
         border-radius: 30px;
         margin-top: 20px;
         margin-bottom: 20px;
         padding-left: 10px;
         padding-right: 10px;
     }
-
     .form-control {
         width: 400px;
     }
-
     nav.navbar {
         font-size: 25px;
     }
-
     .social-icons {
         font-size: 40px;
     }
-
     .contact-container {
         padding-top: 60px;
         height: 100vh;
     }
 }
 
-/**Mobile phones XL resolution like Iphone X and Pixel 2 XL */
-@media (min-width: 812px) and (max-width: 830px) {
-
+/**** Tablets Landscape mode ****/
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape){
+    .about-right {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .img-fluid {
+        width: 350px;
+        height: 190px;
+        border-radius: 30px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .form-control {
+        width: 400px;
+    }
+    nav.navbar {
+        font-size: 25px;
+    }
+    .social-icons {
+        font-size: 40px;
+    }
     .contact-container {
+        padding-top: 60px;
+        height: 100vh;
+    }
+}
 
+/**** Mobile phones XL resolution like Iphone X and Pixel 2 XL ****/
+
+@media (min-width: 812px) and (max-width: 830px) {
+    .contact-container {
         height: 200vh;
     }
 }
+
+/***Ipad Pro ***/

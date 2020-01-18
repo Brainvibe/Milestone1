@@ -26,7 +26,7 @@ Having this in mind, I've created a one-page scroll with three sections, in orde
   - It shows the user, a full range of products that are available and provided by Mary's Sweets.
 
 - Contact us
-  - A simple form to contact Mary's Sweets, if the user whishes to have more information or order any products 
+  - A simple form to contact Mary's Sweets, if the user wishes to have more information or order any products.
 
 ## Wireframes
 <p align="center">
@@ -49,18 +49,18 @@ Tablet
 
 ## Features
 
-**About us** - Users can learn here more detailed information about the business, who they are, their mission, 
-    and what they do. 
+**About us** - Users can learn here more detailed information about the business, who they are, their mission,
+    and what they do.
 
-**Our Sweets** - It showcases all Bakery products, so the user knows what's available to them. 
+**Our Sweets** - It showcases all Bakery products, so the user knows what's available to them.
 
-**Contact us** - Allows the user to contact the business to order cakes or to ask any other information they want to. 
+**Contact us** - Allows the user to contact the business to order cakes or to ask any other information they want to.
 
 ### Features Left to Implement
 
 - **Online store** - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer.
 
-- **Different payment methods** - In order to reach to a wider range of customers. 
+- **Different payment methods** - In order to reach to a wider range of customers.
 
 - **Social feed** - Real-time updates, from business social accounts and engagement with the potential customers.
 
@@ -99,7 +99,7 @@ Tablet
 - **W3C Validation Services**
   - Markup Validation Service - It detected some minor errors that were easily fixed.
   - Link Checker - No errors, all links working properly.
-  - CSS Validation service - Only warnings and errors regarding Bootstrap and unkown vendor extensions.
+  - CSS Validation service - Only warnings and errors regarding Bootstrap and unknown vendor extensions.
 
 - **Tested Devices**
 
