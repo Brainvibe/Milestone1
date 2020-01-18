@@ -197,13 +197,12 @@ a:link {
 }
 
 .contactTitle {
-    padding-top: 20px;
-    font-weight: bold;
+       
+    
     font-size: 25px;
-    font-family: 'PT Sans Narrow', sans-serif;
-    text-align: center;
-    background-color: black;
+  
     color: white;
+
 }
 
 .btn-success {
