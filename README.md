@@ -123,12 +123,12 @@ Tablet
 
 - **Non-automated testing**
 
-        Contact Form:
+Contact Form:
 
-            Went to the "Contact Us" section
-            Tried to submit the empty form and verify that an error message about the required fields appears
-            Tried to submit the form with an invalid email address and verify that a relevant error message appears
-            Tried to submit the form with all inputs valid and verified that it was accepted.
+    Went to the "Contact Us" section
+    Tried to submit the empty form and verify that an error message about the required fields appears
+    Tried to submit the form with an invalid email address and verify that a relevant error message appears
+    Tried to submit the form with all inputs valid and verified that it was accepted.
 
 Links:
 
