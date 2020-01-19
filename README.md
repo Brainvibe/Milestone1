@@ -56,19 +56,7 @@ Tablet
 
 **Contact us** - Allows the user to contact the business to order cakes or to ask any other information they want to.
 
-### Features Left to Implement
-
-- **Online store** - Instead of using the contact form to order the cakes, a full e-commerce solution would be ideal. For the business and the customer.
-
-- **Different payment methods** - In order to reach to a wider range of customers.
-
-- **Social feed** - Real-time updates, from business social accounts and engagement with the potential customers.
-
 ## Technologies Used
-
-- **Visual Studio Code** - IDE used for this project. [Visual Studio Code Website](https://code.visualstudio.com/)
-
-- **Live Server** - VsCode extension developed by Ritwick Dey, it launches a local development server with live reload feature for static & dynamic pages. [Live server by Riwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 - **HTML** - Used to create the main structure of the website.
 
@@ -82,17 +70,11 @@ Tablet
 
 - **Popper.js** - Used for Navbar [Popper.js](https://popper.js.org/)
 
-- **Git** - Version control used. [Git](https://git-scm.com/)
-
-- **GitHub** - Hosted repository. [Github](https://github.com/)
-
 - **Github Pages** - Used to host the live website. [Github Pages](https://pages.github.com/)
 
 - **tinypng** - Use to compress all images in this project - [tinypng](https://tinypng.com/)
 
 - **Google Fonts** - Pacifico and PT Sans Narrow fonts - [Google Fonts](https://fonts.google.com/)
-
-- **Balsamiq** - Wireframing software - [Balsamiq](https://balsamiq.com/) 
 
 ## Testing
 
